@@ -1,3 +1,3 @@
 # Odin-recipes
 
-Hello
+This is the first project from Odin Project!
